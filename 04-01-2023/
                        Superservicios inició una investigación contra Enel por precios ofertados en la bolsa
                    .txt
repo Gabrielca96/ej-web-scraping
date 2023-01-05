@@ -1,0 +1,28 @@
+
+                        Superservicios inició una investigación contra Enel por precios ofertados en la bolsa
+                    
+
+La empresa habría distorsionado el mercado de energía eléctrica al afectar el precio de las tarifas 
+
+La Superintendencia de Servicios Públicos Domiciliarios (Superservicios) inició una investigación administrativa y sancionatoria contra la empresa de 
+energía
+ Enel Colombia S.A. ESP  por los precios de energía que ofertó en bolsa.
+ La planta hidroeléctrica de Betania, propiedad de la compañía, tendría un precio de oferta de energía cercano a los $900 por kWh, comportamiento que no obedecería las resoluciones pertinentes.
+A modo de contexto, cabe aclarar que, entre el 9 y 28 de diciembre de 2022 el valor de la energía en bolsa aumentó $300 por kilovatio hora, pasando de $200 por kWh a $510 kWh. Esto representa un incremento de 155%.
+ Ante este panorama, los valores podrían subir hasta los precios de escasez ubicados en $945 por kWh, sin que ninguna entidad regule este tipo de aumentos.
+Es importante anotar que, el precio de escasez se refiere al valor máximo que puede pagar la demanda del país por la energía. Con esto, se afectaría directamente a los usuarios finales con incrementos tarifarios similares a los vistos por el aumento del Índice de Precios al Productor (IPP) en el último año.
+Según XM, operador del Sistema Interconectado y el administrador del Mercado de Energía Mayorista de Colombia, cuando el precio de bolsa supera el precio de escasez​, se genera una señal de que hay una situación crítica en el sistema y se activa esta norma para regular el precio al que se compra la energía.
+Teniendo esto en cuenta, la Superservicios, a través de la Delegada para Energía y Gas Combustible en su ejercicio de seguimiento a los precios de bolsa,
+ advirtió previamente un comportamiento irregular por parte de Enel al incumplir lo señalado en el artículo 6 de la Resolución 055 de 1994 de la Comisión de Regulación de Energía y Gas Combustible (CREG).
+ En esta se establece que "los precios a los cuales las empresas generadoras ofrezcan diariamente su energía, deben reflejar los costos variables de generación en que estas incurran, y así, para el caso específico de la generación hidroeléctrica deberán obedecer al costo de oportunidad del agua al momento de generar".
+El comportamiento irregular que habría tenido la compañía correspondió a su planta hidroeléctrica de Betania, que durante varios días, pese a que estaba vertiendo agua, tenía un precio de oferta de energía cercano a los 900 por kWh, comportamiento que no obedece a lo señalado en la resolución.
+Al respecto, el superintendente encargado, Orlando Velandia Sepúlveda explicó que 
+"si una hidroeléctrica está botando agua tendrá un costo de oportunidad mínimo y por ende, sus precios de oferta de energía deben ser bajos y no como lo hizo Enel Colombia
+".
+Este comportamiento generó una posible distorsión del mercado de acuerdo a lo establecido en el artículo 23 de la Resolución 080 de 2019.
+ En esta se afirma que los agentes de mercado deben "desarrollar sus actividades con lealtad, idoneidad, profesionalismo, honorabilidad y diligencia, lo cual implica el sometimiento de su conducta a las diversas normas que regulan su actividad, sin utilizar mecanismos, estrategias o cualquier otro instrumento que tenga capacidad, el propósito o el efecto de distorsionar el funcionamiento eficiente del mercado".
+A partir de lo expuesto en las resoluciones, la Superservicios inició investigación administrativa sancionatoria y formuló un cargo contra la empresa Enel Colombia por haber, presuntamente, desconocido los principios del marco regulatorio del mercado de bolsa de energía.
+Paradójicamente, actualmente Colombia registra el nivel más alto en reservas de agua debido al Fenómeno de La Niña. Sin embargo, las tarifas de energía se mantienen al alza.
+ Por esto, el caso de Enel motivó a la Superservicios a sugerir una revisión de los aspectos que regulan la generación de la energía en Colombia, particularmente a las resoluciones expedidas por la CREG entre 1994 y 1995, las cuales aún están vigentes.
+Sepúlveda aseguró que realizarán un monitoreo constante de las variables utilizadas al momento de ofertar la energía en el país.
+"Haremos seguimiento permanente al comportamiento de los agentes para determinar la razonabilidad y consistencia de los parámetros y variables utilizados al momento de ofertar energía, o de prestar servicios en cada eslabón de la cadena (Generación, Transmisión, Comercialización y Distribución) solicitando la intervención de la Superintendencia de Industria y Comercio (SIC) para que, en el marco de sus competencias, pueda determinar si dichos comportamientos pueden tener sanciones desde la garantía de la libre competencia", aseveró.
